@@ -1,0 +1,51 @@
+body {
+  font-family: "Source Sans Pro", "sans-serif";
+  text-align: center;
+  margin: 0;
+}
+
+h1 {
+  font-family: ;
+  font-weight: 400;
+  color: ;
+  font-size: 3.375rem;
+  margin: 0;
+}
+
+label {
+  display: block;
+  margin-top: 1rem;
+}
+
+h1 {
+  font-family: ;
+  font-weight: 400;
+  color: ;
+  font-size: 3.375rem;
+  margin: 0;
+}
+
+.image {
+  max-width: 400px;
+  padding-top: 67%;
+  background-size: cover;
+}
+
+.results {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  max-width: 400px;
+  gap: 30px;
+  background: rgba(237, 170, 9, 0.5);
+  padding: 20px;
+}
+
+.single-blogs {
+  margin: 0 auto;
+  display: flex;
+  max-width: 400px;
+  padding: 20px;
+  background: rgba(237, 170, 9, 0.5);
+}
